@@ -1,3 +1,10 @@
+**Team Members**
+Muna 
+Giancarlo Arguello
+Talal Hussain
+Muna Salad
+James Walters
+
 **The Big Idea:** 
 The general idea for this project is a search tool for downloaded and online class content. Users will be able to easily search any files and webpages they want easily. This is intended mainly for students. We will explore text file scanning, and the challenge of needing to build/index a database, and gui design. We will generate an easy to use product where users can drag and drop files into the application and submit links. Then, the program will run a keyword search on the relevant class topic. For example, a student will upload all class slides and web articles the professor has provided, then be able to save this group of content and come back to it and search it easily for keywords. The minimum viable product would be a simple powerpoint scanning tool which would still be useful. The stretch goal would be to simply link a canvas website to the program and be able to download all related files and search the entire canvas site without any need for the user to manually upload the files to the program. 
 
