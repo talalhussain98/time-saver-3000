@@ -1,8 +1,7 @@
 **Team Members**
-Muna 
-Giancarlo Arguello
-Talal Hussain
-Muna Salad
+Giancarlo Arguello, 
+Talal Hussain, 
+Muna Salad, 
 James Walters
 
 **The Big Idea:** 
